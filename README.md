@@ -12,5 +12,9 @@ Provide a highly opinionated stack for production grade dspy agents. We should b
 - **SgLang**: Deploy optimized agents on GPUs
 
 ## References
-- [CrewAI]()
-- [AutoGen]()
+### Agent Frameworks
+- [CrewAI](https://docs.crewai.com/)
+- [AutoGen](https://microsoft.github.io/autogen/)
+- [LangGraph](https://python.langchain.com/docs/langgraph#overview)
+- [LlamaGym](https://github.com/KhoomeiK/LlamaGym)
+- [OvercookedGPT](https://github.com/BladeTransformerLLC/OvercookedGPT)
