@@ -6,6 +6,7 @@ Provide a highly opinionated stack for production grade dspy agents. We should b
 - **Sqlite**: Database for Models and Compiled LLM Programs
 - **DSPy**: Allow for agents to be compiled for their roles and model at hand
 - **Dapr**: Deploy an orchestra of DSPy agents as a cluster of microservices
+- **Modal Labs**: Deploy a serverless orchestra of DSPy agents
 
 ## Future Direction
 - **SgLang**: Deploy optimized agents on GPUs
